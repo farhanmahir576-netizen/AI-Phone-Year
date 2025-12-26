@@ -1,115 +1,31 @@
-# 📱 AI-Phone-Year  
-**Mahir’s 12-month journey to become an AI Engineer using only a phone**
+# AI-Phone-Year
 
----
+A public journey to become an ML/AI-ready engineer using only a smartphone.
 
-## 🚀 Goal
-To become fully job-ready in AI/ML by studying and building projects using only a smartphone.
+## Why this exists
+I don’t have a laptop until August 2026.
+Instead of waiting, I’m building strong math, ML, and AI foundations in public.
 
----
+## Constraints
+- Mobile-only learning
+- 2–2.5 hours/day
+- No heavy compute until Aug 2026
 
-## 📅 Monthly Roadmap (Overview)
+## Roadmap (High-level)
+- Math Foundations ✅
+- From-Zero Python (next)
+- Python Core
+- Statistics & Probability
+- Machine Learning
+- Deep Learning
+- LLMs & AI Systems (theory)
+- Quantum Computing (intro)
 
-### **Month 1 — Math Foundations**
-- Arithmetic  
-- Pre-Algebra  
-- Algebra 1  
-- Statistics & Probability  
-**Resources:** Khan Academy (free)
+## Proof Rules
+- Build from scratch before using libraries
+- No blind tutorial copy-paste
+- Reproducibility over hype
+- All progress is public
 
----
-
-### **Month 2 — Python Programming**
-- Learn Python basics on SoloLearn  
-- Practice coding daily in GitHub Codespaces  
-- Build 3 small Python projects  
-
----
-
-### **Month 3 — Data Handling**
-- Numpy  
-- Pandas  
-- Matplotlib  
-- 2 data-analysis mini-projects  
-
----
-
-### **Month 4 — Machine Learning Basics**
-- Regression  
-- Classification  
-- Train your first ML models  
-- Scikit-learn projects  
-
----
-
-### **Month 5 — Neural Networks**
-- Feedforward networks  
-- Activation functions  
-- Build a neural network from scratch with Python  
-
----
-
-### **Month 6 — Deep Learning**
-- CNNs  
-- RNNs  
-- Build image classifier + text classifier  
-
----
-
-### **Month 7 — AI Tools & APIs**
-- OpenAI, HuggingFace  
-- Build chatbot, summarizer, classifier  
-
----
-
-### **Month 8 — Mobile-AI Projects**
-- AI image tools  
-- Voice assistants  
-- Offline ML on mobile  
-
----
-
-### **Month 9 — Portfolio Projects**
-- 3 big real-world projects  
-- Host on GitHub  
-- Write clean READMEs  
-
----
-
-### **Month 10 — Freelance Prep**
-- Build Fiverr/Upwork profiles  
-- Make sample projects  
-- Learn client communication  
-
----
-
-### **Month 11 — Interview Prep**
-- Machine learning theory  
-- Python challenges  
-- GitHub polishing  
-
----
-
-### **Month 12 — Final AI Portfolio**
-- Build a polished portfolio  
-- Apply for internships  
-- Apply for remote jobs  
-
----
-
-## 📂 Progress Tracking
-I update this repo DAILY with:
-- My study progress  
-- Assignments  
-- Code  
-- Projects  
-
----
-
-## 🔥 Motivation
-If I stay consistent for 12 months, I will become an AI engineer even with just a phone.
-
----
-
-### ⭐ Follow my journey!
-More updates coming soon…
+## Current Status
+Math phase completed. Starting From-Zero Python mini-boot.
